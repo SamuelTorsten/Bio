@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamuelTorsten
+- 👋 Hi, I’m Samuel!
 - 👀 I’m interested in working on my game studio; WonderScape Studios
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on simple 3D game projects that we can develop and turn into actual games.
